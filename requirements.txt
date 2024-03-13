@@ -1,4 +1,5 @@
 pandas
 neo4j
-openai
+openai==0.28.1
 python-dotenv
+beautifulsoup4
